@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame95.jpg</filename>
+	<path>/afs/ific.uv.es/user/j/jgarcian/CloudChamber/images/frame95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alfa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>157</ymin>
+			<xmax>216</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

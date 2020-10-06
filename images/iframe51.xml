@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iframe51.jpg</filename>
+	<path>/afs/ific.uv.es/user/j/jgarcian/CloudChamber/images/iframe51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alfa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>65</ymin>
+			<xmax>535</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>
